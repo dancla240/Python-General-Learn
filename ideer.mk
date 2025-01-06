@@ -1,10 +1,11 @@
 bias variance tradeoff
 accuracy precision recall
-generell ML metodik
+regularization
+generell ML metodik inklusive data preparation, model selection, model evaluation, model tuning
 overfitting underfitting
 cross validation
 hyperparameter tuning
-grid search
+grid search CV
 feature selection
 feature engineering
 data preprocessing
